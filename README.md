@@ -1,2 +1,2 @@
 # MoreHealthyNPCs  
-Check Debug Log for NPC HP and other things
+https://mcfuzzykins.github.io/MoreHealthyNPCs/  
